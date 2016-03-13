@@ -8,5 +8,9 @@
     "start": "node server.js"
   },
   "author": "@daviheso",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "react": "^0.14.7"
+  }
 }
